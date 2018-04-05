@@ -1,0 +1,10 @@
+localhost:9998
+root wordpress/
+fastcgi / 127.0.0.1:9000 php
+
+rewrite {
+    if {path} not_match ^\/wp-admin
+    to {path} {path}/ /index.php?{query}
+}
+
+errors errors.log

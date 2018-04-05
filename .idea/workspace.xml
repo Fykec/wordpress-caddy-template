@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1237b3a9-1be2-447e-99b8-5d4f29e73fb2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="category-template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/category-template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding>
+                <marker date="1513911039000" expanded="true" signature="37082:37098" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taxonomy.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/taxonomy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58260">
+              <caret line="3889" column="9" lean-forward="false" selection-start-line="3889" selection-start-column="9" selection-end-line="3889" selection-end-column="9" />
+              <folding>
+                <marker date="1508844204000" expanded="true" signature="27367:27594" ph="SELECT tr.ob... ${$wpdb-&gt;term_relationships}" />
+                <marker date="1508844204000" expanded="true" signature="48524:48635" ph="SELECT meta_... ${$wpdb-&gt;termmeta}" />
+                <marker date="1508844204000" expanded="true" signature="49449:49492" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="49512:49643" ph="SELECT tt.te... ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="50571:50740" ph="SELECT tt.te... ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="50837:51011" ph="SELECT tt.te... ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="51103:51163" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="51250:51315" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="62902:62978" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="64071:64146" ph="SELECT objec... ${$wpdb-&gt;term_relationships}" />
+                <marker date="1508844204000" expanded="true" signature="64942:64996" ph="SELECT meta_... ${$wpdb-&gt;termmeta}" />
+                <marker date="1508844204000" expanded="true" signature="65623:65683" ph="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="75996:76024" ph="SELECT MAX(t... ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="78898:79053" ph="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="79746:79975" ph="SELECT t.ter... ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="84237:84338" ph="SELECT term_... ${$wpdb-&gt;term_relationships}" />
+                <marker date="1508844204000" expanded="true" signature="85550:85669" ph="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="86320:86491" ph="INSERT INTO ${$wpdb-&gt;term_relationships}... " />
+                <marker date="1508844204000" expanded="true" signature="89419:89514" ph="DELETE FROM ${$wpdb-&gt;term_relationships}... " />
+                <marker date="1508844204000" expanded="true" signature="92605:92668" ph="SELECT slug ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="92734:92779" ph="SELECT slug ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="92951:92996" ph="SELECT slug ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="96704:96732" ph="SELECT MAX(t... ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="98082:98237" ph="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="106794:106880" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="116641:116908" ph="SELECT objec... ${$wpdb-&gt;term_relationships}" />
+                <marker date="1508844204000" expanded="true" signature="118433:118560" ph="SELECT t.*, ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="119955:120289" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+                <marker date="1508844204000" expanded="true" signature="120154:120216" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1508844204000" expanded="true" signature="120379:120614" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+                <marker date="1508844204000" expanded="true" signature="121463:121537" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+                <marker date="1508844204000" expanded="true" signature="123866:123962" ph="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="124322:124390" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="124655:124706" ph="SELECT t.* F... ${$wpdb-&gt;terms}" />
+                <marker date="1508844204000" expanded="true" signature="125413:125475" ph="SELECT * FRO... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="125558:125643" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="126545:126605" ph="SELECT taxon... ${$wpdb-&gt;term_taxonomy}" />
+                <marker date="1508844204000" expanded="true" signature="127343:127540" ph="SELECT tt.te... $" />
+                <marker date="1508844204000" expanded="true" signature="128568:128589" ph="VALUES (%s, " />
+                <marker date="1508844204000" expanded="true" signature="129244:129442" ph="SELECT tt.te... $" />
+                <marker date="1508844204000" expanded="true" signature="130171:130247" ph="SELECT * FRO... $" />
+                <marker date="1508844204000" expanded="true" signature="133290:133690" ph="SELECT m1.po... $" />
+                <marker date="1508844204000" expanded="true" signature="136515:136575" ph="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Caddyfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Caddyfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;images/</find>
+      <find>&quot;js/</find>
+      <find>&quot;css</find>
+      <find>&quot;images</find>
+      <find>back</find>
+      <find>background</find>
+      <find>images</find>
+      <find>&quot;assets</find>
+      <find>rr</find>
+      <find>category p</find>
+      <find>selected</find>
+      <find>get_category_</find>
+      <find>$category_name</find>
+      <find>$tag_name</find>
+      <find>category</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;assets/js/</replace>
+      <replace>&quot;&lt;?php echo get_template_directory_uri(); ?&gt;/assets</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/single.php" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/hixianchang/home.php" />
+        <option value="$PROJECT_DIR$/twentyseventeen-hixianchang/function.php" />
+        <option value="$PROJECT_DIR$/twentyseventeen-hixianchang/home.php" />
+        <option value="$PROJECT_DIR$/twentyseventeen-hixianchang/single.php" />
+        <option value="$PROJECT_DIR$/twentyseventeen-hixianchang/index.php" />
+        <option value="$PROJECT_DIR$/twentyseventeen-hixianchang/style.css" />
+        <option value="$PROJECT_DIR$/hixianchang/function.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/wordpress/wp-config.php" />
+        <option value="$PROJECT_DIR$/wordpress/php_error.log" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/hixianchang/functions.php" />
+        <option value="$PROJECT_DIR$/hixianchang/assets/css/css.css" />
+        <option value="$PROJECT_DIR$/hixianchang/sidebar.php" />
+        <option value="$PROJECT_DIR$/hixianchang/single.php" />
+        <option value="$PROJECT_DIR$/hixianchang/header.php" />
+        <option value="$PROJECT_DIR$/hixianchang/index.php" />
+        <option value="$PROJECT_DIR$/hixianchang/footer.php" />
+        <option value="$PROJECT_DIR$/Caddyfile" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="65" />
+    <option name="width" value="1440" />
+    <option name="height" value="771" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wordpress-caddy-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress-caddy-template" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="get_current_the&#9;null&#9;null&#10;is_super&#9;null&#9;null" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="65" width="1440" height="771" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="RNConsole" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2074392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="RNConsole" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25619835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/single.php" />
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/detail.html" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/detail.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/iShare.js" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/single.php" />
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hixianchang/home.php" />
+    <entry file="file://$PROJECT_DIR$/twentyseventeen-hixianchang/home.php" />
+    <entry file="file://$PROJECT_DIR$/twentyseventeen-hixianchang/single.php" />
+    <entry file="file://$PROJECT_DIR$/twentyseventeen-hixianchang/function.php" />
+    <entry file="file://$PROJECT_DIR$/twentyseventeen-hixianchang/style.css" />
+    <entry file="file://$PROJECT_DIR$/twentyseventeen-hixianchang/index.php" />
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyseventeen/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyseventeen/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyseventeen/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hixianchang/style.css" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-config-sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-cron.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-config.php" />
+    <entry file="file://$PROJECT_DIR$/wordpress/php_error.log" />
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1667">
+          <caret line="217" column="60" lean-forward="true" selection-start-line="217" selection-start-column="60" selection-end-line="217" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/class-wp-user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="376" column="17" lean-forward="true" selection-start-line="376" selection-start-column="17" selection-end-line="376" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="94" column="7" lean-forward="false" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="2607" column="9" lean-forward="false" selection-start-line="2607" selection-start-column="9" selection-end-line="2607" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="420" column="9" lean-forward="false" selection-start-line="420" selection-start-column="9" selection-end-line="420" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/capabilities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="769" column="31" lean-forward="false" selection-start-line="769" selection-start-column="31" selection-end-line="769" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/wp-db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/deprecated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43905">
+          <caret line="2934" column="9" lean-forward="false" selection-start-line="2934" selection-start-column="9" selection-end-line="2934" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errors.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/category-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <marker date="1513911039000" expanded="true" signature="37082:37098" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/taxonomy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58260">
+          <caret line="3889" column="9" lean-forward="false" selection-start-line="3889" selection-start-column="9" selection-end-line="3889" selection-end-column="9" />
+          <folding>
+            <marker date="1508844204000" expanded="true" signature="27367:27594" ph="SELECT tr.ob... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1508844204000" expanded="true" signature="48524:48635" ph="SELECT meta_... ${$wpdb-&gt;termmeta}" />
+            <marker date="1508844204000" expanded="true" signature="49449:49492" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="49512:49643" ph="SELECT tt.te... ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="50571:50740" ph="SELECT tt.te... ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="50837:51011" ph="SELECT tt.te... ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="51103:51163" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="51250:51315" ph="SELECT term_... ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="62902:62978" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="64071:64146" ph="SELECT objec... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1508844204000" expanded="true" signature="64942:64996" ph="SELECT meta_... ${$wpdb-&gt;termmeta}" />
+            <marker date="1508844204000" expanded="true" signature="65623:65683" ph="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="75996:76024" ph="SELECT MAX(t... ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="78898:79053" ph="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="79746:79975" ph="SELECT t.ter... ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="84237:84338" ph="SELECT term_... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1508844204000" expanded="true" signature="85550:85669" ph="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="86320:86491" ph="INSERT INTO ${$wpdb-&gt;term_relationships}... " />
+            <marker date="1508844204000" expanded="true" signature="89419:89514" ph="DELETE FROM ${$wpdb-&gt;term_relationships}... " />
+            <marker date="1508844204000" expanded="true" signature="92605:92668" ph="SELECT slug ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="92734:92779" ph="SELECT slug ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="92951:92996" ph="SELECT slug ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="96704:96732" ph="SELECT MAX(t... ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="98082:98237" ph="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="106794:106880" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="116641:116908" ph="SELECT objec... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1508844204000" expanded="true" signature="118433:118560" ph="SELECT t.*, ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="119955:120289" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1508844204000" expanded="true" signature="120154:120216" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1508844204000" expanded="true" signature="120379:120614" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1508844204000" expanded="true" signature="121463:121537" ph="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
+            <marker date="1508844204000" expanded="true" signature="123866:123962" ph="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="124322:124390" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="124655:124706" ph="SELECT t.* F... ${$wpdb-&gt;terms}" />
+            <marker date="1508844204000" expanded="true" signature="125413:125475" ph="SELECT * FRO... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="125558:125643" ph="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="126545:126605" ph="SELECT taxon... ${$wpdb-&gt;term_taxonomy}" />
+            <marker date="1508844204000" expanded="true" signature="127343:127540" ph="SELECT tt.te... $" />
+            <marker date="1508844204000" expanded="true" signature="128568:128589" ph="VALUES (%s, " />
+            <marker date="1508844204000" expanded="true" signature="129244:129442" ph="SELECT tt.te... $" />
+            <marker date="1508844204000" expanded="true" signature="130171:130247" ph="SELECT * FRO... $" />
+            <marker date="1508844204000" expanded="true" signature="133290:133690" ph="SELECT m1.po... $" />
+            <marker date="1508844204000" expanded="true" signature="136515:136575" ph="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hixianchang/assets/css/css.css" />
+    <entry file="file://$PROJECT_DIR$/hixianchang/functions.php" />
+    <entry file="file://$PROJECT_DIR$/hixianchang/sidebar.php" />
+    <entry file="file://$PROJECT_DIR$/hixianchang/single.php" />
+    <entry file="file://$PROJECT_DIR$/hixianchang/index.php" />
+    <entry file="file://$PROJECT_DIR$/hixianchang/header.php" />
+    <entry file="file://$PROJECT_DIR$/hixianchang/footer.php" />
+    <entry file="file://$PROJECT_DIR$/Caddyfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
